@@ -1,0 +1,8 @@
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\bin\Debug\TCPServerArduino.exe.config
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\bin\Debug\TCPServerArduino.exe
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\bin\Debug\TCPServerArduino.pdb
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\obj\Debug\TCPServerArduino.csprojAssemblyReference.cache
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\obj\Debug\TCPServerArduino.csproj.CoreCompileInputs.cache
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\obj\Debug\TCPServerArduino.exe
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\obj\Debug\TCPServerArduino.pdb
+C:\Users\Kogut\source\repos\TCPServerArduino\TCPServerArduino\obj\Debug\TCPServerArduino.csproj.ResolveComReference.cache

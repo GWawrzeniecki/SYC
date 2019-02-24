@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{94FF5607-79D2-40CC-851F-A422296A9E3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TCPServerArduino/Program.cs">
+    <Files>
+      <File FileName="TCPServerArduino/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TCPServerArduino PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
